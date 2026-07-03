@@ -7,7 +7,7 @@
 
 ### 🚀 Code Release Plan
 
-To strictly comply with the double-blind review policy of the conference, the complete source code, training scripts, dataset splits, and pre-trained weights are temporarily withheld. 
+To strictly comply with the double-blind review policy of the conference, the complete source code, training scripts are temporarily withheld. 
 
 **All materials will be fully released and open-sourced here immediately upon the acceptance of the paper.**
 
