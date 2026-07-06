@@ -1,8 +1,3 @@
-# VCF-Net
-
-[![Status](https://img.shields.io/badge/Status-Under_Review-blue.svg)]()
-[![License](https://img.shields.io/badge/License-MIT-green.svg)]()
-
 > This repository is prepared for the double-blind peer review process.
 
 ### 🚀 Code Release Plan
